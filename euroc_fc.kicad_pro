@@ -391,8 +391,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "euroc_fc.step",
+      "vrml": "euroc_fc.wrl"
     },
     "page_layout_descr_file": ""
   },
