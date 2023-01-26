@@ -288,9 +288,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/3dmodels/430450400.wrl"
+    (model "${KIPRJMOD}/3dmodels/430450400.step"
       (offset (xyz 1.5 4 4))
-      (scale (xyz 0.4 0.4 0.4))
+      (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
     )
   )
@@ -574,14 +574,9 @@
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (zone_connect 2) (tstamp b8882709-1438-43ab-a6ef-0c0e80a16def))
     (pad "2" thru_hole circle (at 2.54 2.54) (size 2.5 2.5) (drill 1.7) (layers *.Cu *.Mask) (remove_unused_layers) (keep_end_layers)
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (zone_connect 2) (tstamp e3f172f9-5545-410c-ab95-04908d9c0f11))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_901-143_Horizontal.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-    (model "${KIPRJMOD}/3dmodels/sma.wrl"
+    (model "${KIPRJMOD}/3dmodels/sma.step"
       (offset (xyz 0 0 -4))
-      (scale (xyz 0.4 0.4 0.4))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -887,9 +882,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/3dmodels/430450400.wrl"
+    (model "${KIPRJMOD}/3dmodels/430450400.step"
       (offset (xyz 1.5 4 4))
-      (scale (xyz 0.4 0.4 0.4))
+      (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
     )
   )
@@ -2370,9 +2365,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/3dmodels/430450400.wrl"
+    (model "${KIPRJMOD}/3dmodels/430450400.step"
       (offset (xyz 1.5 4 4))
-      (scale (xyz 0.4 0.4 0.4))
+      (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
     )
   )
@@ -4391,9 +4386,9 @@
       (net 91 "unconnected-(U9-Pad19)") (pinfunction "EXTINT") (pintype "input+no_connect") (tstamp f0bc523b-306e-4241-97f6-6fd067f95926))
     (pad "20" smd rect (at -3.8 -6.6 270) (size 1.5 1.8) (layers "F.Cu" "F.Mask")
       (net 3 "GND") (pinfunction "GND") (pintype "passive") (tstamp 4849605d-7b51-4f13-a180-b15f53b1454b))
-    (model "${KIPRJMOD}/3dmodels/sam_m8q.wrl"
-      (offset (xyz 3 12 1))
-      (scale (xyz 0.4 0.4 0.4))
+    (model "${KIPRJMOD}/3dmodels/sam_m8q.step"
+      (offset (xyz -7.6 7.6 0))
+      (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
   )
